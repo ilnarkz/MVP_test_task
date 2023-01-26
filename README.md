@@ -7,11 +7,11 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/ilnarkz/BankCards
-cd BankCards
+git clone https://github.com/ilnarkz/MVP_test_task
+cd MVP_test_task
 ```
 
-### Активация виртуального окружения
+### Создание и активация виртуального окружения
 
 ```bash
 python3 -m venv .venv
