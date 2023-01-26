@@ -1,5 +1,7 @@
 # MVP_test_task
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/6f4f517e3870d4470e8d/maintainability)](https://codeclimate.com/github/ilnarkz/MVP_test_task/maintainability)
+
 Простое приложение на Flask по созданию пользователей с ипользованием базы данных Mongo
 
 ### Клонирование репозитория
