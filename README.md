@@ -29,3 +29,9 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
+
+Для просмотра всех созданных пользователей зайдите на
+
+```bash
+http://127.0.0.1:5050/users/
+```
